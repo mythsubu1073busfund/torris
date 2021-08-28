@@ -1,0 +1,5 @@
+Hindi
+English
+Telugu
+Kannada
+Malayalam
